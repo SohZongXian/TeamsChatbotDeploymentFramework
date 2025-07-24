@@ -26,6 +26,8 @@ This sample **requires** prerequisites in order to run.
 - Launch Bot Framework Emulator
 - Enter a Bot URL of `http://localhost:3978/api/messages`
 
+### Deployment
+- [Deploying Bot](https://learn.microsoft.com/en-us/azure/bot-service/provision-azure-bot?view=azure-bot-service-4.0&tabs=singletenant)
 
 ## Further reading
 

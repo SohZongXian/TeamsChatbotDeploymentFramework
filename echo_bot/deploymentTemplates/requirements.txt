@@ -1,4 +1,2 @@
 botbuilder-integration-aiohttp>=4.14.0
 aiohttp
-botbuilder-core
-botbuilder-schema
